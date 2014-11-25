@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skin version="0.2">
+    <title xml:lang="ko">심플주황 포인트복권</title>
+    <description xml:lang="ko">
+        심플주황 포인트복권스킨
+        제작 : 데벨
+    </description>
+    <version>0.1</version>
+    <date>2012-01-11</date>
+    <author email_address="devel-_-@nate.com" link="http://kr3.kr/">
+        <name xml:lang="ko">데벨</name>
+    </author>
+    <author link="http://kr3.kr/">
+        <name xml:lang="ko">데벨</name>
+    </author>    <license>GPL v2</license>
+    <colorset>
+        <color name="white" src="screenshot/white.png">
+            <title xml:lang="ko">하얀색(기본)</title>
+        </color>
+    </colorset>
+</skin>
+
